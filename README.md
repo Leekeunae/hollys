@@ -10,4 +10,4 @@ index와 login, mall, menu  페이지로 구성되어 있습니다.
 
 
 ## style guard
-![스타일 가이드](https://leekeunae.github.io/hollys/style guard)
+![스타일 가이드](https://leekeunae.github.io/hollys/STYLEGUIDE.jpg)
