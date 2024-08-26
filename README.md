@@ -14,4 +14,5 @@ index와 login, mall, menu  페이지로 구성되어 있습니다.
 
 ***
 
-## 
+## INDEX
+![인덱스 페이지](https://leekeunae.github.io/hollys/index.html)
